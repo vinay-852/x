@@ -1,7 +1,7 @@
-import SapHelperChatbotM3Strict from "./chatbot";
+import SapHelperChatbot from "./chatbot";
 
 export default function App() {
   return (
-    <SapHelperChatbotM3Strict />
+      <SapHelperChatbot />
   );
 }
